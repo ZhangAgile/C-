@@ -1,0 +1,9 @@
+F:\MyDemo\C#\MyDemo\MyDemo\TCPClient\bin\Debug\TCPClient.exe.config
+F:\MyDemo\C#\MyDemo\MyDemo\TCPClient\bin\Debug\TCPClient.exe
+F:\MyDemo\C#\MyDemo\MyDemo\TCPClient\bin\Debug\TCPClient.pdb
+F:\MyDemo\C#\MyDemo\MyDemo\TCPClient\obj\Debug\TCPClient.csprojResolveAssemblyReference.cache
+F:\MyDemo\C#\MyDemo\MyDemo\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+F:\MyDemo\C#\MyDemo\MyDemo\TCPClient\obj\Debug\TCPClient.TCPClient.resources
+F:\MyDemo\C#\MyDemo\MyDemo\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.Cache
+F:\MyDemo\C#\MyDemo\MyDemo\TCPClient\obj\Debug\TCPClient.exe
+F:\MyDemo\C#\MyDemo\MyDemo\TCPClient\obj\Debug\TCPClient.pdb

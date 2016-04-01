@@ -1,0 +1,5 @@
+F:\MyDemo\C#\MyDemo\MyDemo\DesinModeLearn\bin\Debug\DesinModeLearn.exe.config
+F:\MyDemo\C#\MyDemo\MyDemo\DesinModeLearn\bin\Debug\DesinModeLearn.exe
+F:\MyDemo\C#\MyDemo\MyDemo\DesinModeLearn\bin\Debug\DesinModeLearn.pdb
+F:\MyDemo\C#\MyDemo\MyDemo\DesinModeLearn\obj\Debug\DesinModeLearn.exe
+F:\MyDemo\C#\MyDemo\MyDemo\DesinModeLearn\obj\Debug\DesinModeLearn.pdb

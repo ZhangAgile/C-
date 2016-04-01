@@ -1,0 +1,5 @@
+F:\MyDemo\C#\MyDemo\MyDemo\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+F:\MyDemo\C#\MyDemo\MyDemo\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+F:\MyDemo\C#\MyDemo\MyDemo\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+F:\MyDemo\C#\MyDemo\MyDemo\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+F:\MyDemo\C#\MyDemo\MyDemo\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

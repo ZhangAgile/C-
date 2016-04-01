@@ -1,0 +1,9 @@
+F:\MyDemo\C#\MyDemo\MyDemo\ICETest\obj\Debug\ICETest.csprojResolveAssemblyReference.cache
+F:\MyDemo\C#\MyDemo\MyDemo\ICETest\bin\Debug\ICETest.exe.config
+F:\MyDemo\C#\MyDemo\MyDemo\ICETest\bin\Debug\ICETest.exe
+F:\MyDemo\C#\MyDemo\MyDemo\ICETest\bin\Debug\ICETest.pdb
+F:\MyDemo\C#\MyDemo\MyDemo\ICETest\bin\Debug\Ice.dll
+F:\MyDemo\C#\MyDemo\MyDemo\ICETest\bin\Debug\Ice.pdb
+F:\MyDemo\C#\MyDemo\MyDemo\ICETest\bin\Debug\Ice.xml
+F:\MyDemo\C#\MyDemo\MyDemo\ICETest\obj\Debug\ICETest.exe
+F:\MyDemo\C#\MyDemo\MyDemo\ICETest\obj\Debug\ICETest.pdb

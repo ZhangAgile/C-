@@ -1,0 +1,6 @@
+F:\MyDemo\C#\MyDemo\MyDemo\SerializeTest\bin\Debug\SerializeTest.exe.config
+F:\MyDemo\C#\MyDemo\MyDemo\SerializeTest\bin\Debug\SerializeTest.exe
+F:\MyDemo\C#\MyDemo\MyDemo\SerializeTest\bin\Debug\SerializeTest.pdb
+F:\MyDemo\C#\MyDemo\MyDemo\SerializeTest\obj\Debug\SerializeTest.csprojResolveAssemblyReference.cache
+F:\MyDemo\C#\MyDemo\MyDemo\SerializeTest\obj\Debug\SerializeTest.exe
+F:\MyDemo\C#\MyDemo\MyDemo\SerializeTest\obj\Debug\SerializeTest.pdb

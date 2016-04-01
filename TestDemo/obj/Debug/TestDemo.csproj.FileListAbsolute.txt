@@ -1,0 +1,6 @@
+F:\MyDemo\C#\MyDemo\MyDemo\TestDemo\bin\Debug\TestDemo.exe.config
+F:\MyDemo\C#\MyDemo\MyDemo\TestDemo\bin\Debug\TestDemo.exe
+F:\MyDemo\C#\MyDemo\MyDemo\TestDemo\bin\Debug\TestDemo.pdb
+F:\MyDemo\C#\MyDemo\MyDemo\TestDemo\obj\Debug\TestDemo.csprojResolveAssemblyReference.cache
+F:\MyDemo\C#\MyDemo\MyDemo\TestDemo\obj\Debug\TestDemo.exe
+F:\MyDemo\C#\MyDemo\MyDemo\TestDemo\obj\Debug\TestDemo.pdb

@@ -1,0 +1,9 @@
+F:\MyDemo\C#\MyDemo\MyDemo\TCPServer\obj\Debug\TCPServer.csprojResolveAssemblyReference.cache
+F:\MyDemo\C#\MyDemo\MyDemo\TCPServer\obj\Debug\TCPServer.TCPServer.resources
+F:\MyDemo\C#\MyDemo\MyDemo\TCPServer\obj\Debug\TCPServer.Properties.Resources.resources
+F:\MyDemo\C#\MyDemo\MyDemo\TCPServer\obj\Debug\TCPServer.csproj.GenerateResource.Cache
+F:\MyDemo\C#\MyDemo\MyDemo\TCPServer\bin\Debug\TCPServer.exe.config
+F:\MyDemo\C#\MyDemo\MyDemo\TCPServer\bin\Debug\TCPServer.exe
+F:\MyDemo\C#\MyDemo\MyDemo\TCPServer\bin\Debug\TCPServer.pdb
+F:\MyDemo\C#\MyDemo\MyDemo\TCPServer\obj\Debug\TCPServer.exe
+F:\MyDemo\C#\MyDemo\MyDemo\TCPServer\obj\Debug\TCPServer.pdb

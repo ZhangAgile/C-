@@ -1,0 +1,9 @@
+F:\MyDemo\C#\MyDemo\MyDemo\ICEClient\bin\Debug\ICEClient.exe.config
+F:\MyDemo\C#\MyDemo\MyDemo\ICEClient\bin\Debug\ICEClient.exe
+F:\MyDemo\C#\MyDemo\MyDemo\ICEClient\bin\Debug\ICEClient.pdb
+F:\MyDemo\C#\MyDemo\MyDemo\ICEClient\bin\Debug\Ice.dll
+F:\MyDemo\C#\MyDemo\MyDemo\ICEClient\bin\Debug\Ice.pdb
+F:\MyDemo\C#\MyDemo\MyDemo\ICEClient\bin\Debug\Ice.xml
+F:\MyDemo\C#\MyDemo\MyDemo\ICEClient\obj\Debug\ICEClient.csprojResolveAssemblyReference.cache
+F:\MyDemo\C#\MyDemo\MyDemo\ICEClient\obj\Debug\ICEClient.exe
+F:\MyDemo\C#\MyDemo\MyDemo\ICEClient\obj\Debug\ICEClient.pdb
